@@ -5,7 +5,9 @@ The final result is the following image:
 
 ![final_map](https://raw.githubusercontent.com/PiSimo/German-towns-ending-with-a/refs/heads/main/map_with_towns_ending_with_a.png)
 
-It clearly can be seen that there is a higher concentration in the central regions (which correspond roughly to Thüringen and Sachsen). <b>But why?</b> (Feel free to use the issue section to answer/discuss)
+It clearly can be seen that there is a higher concentration in the central regions (which correspond roughly to Thüringen and Sachsen). 
+
+<b>But why?</b> (Feel free to use the issue section to answer/discuss)
 
 
 ## Requirements:
