@@ -20,4 +20,6 @@ Python libraries (all can be installed with pip):
 ## Credits:
 I do not own any of the used data!
 
-The folder
+The map files in the folder ne_110m_admin_0_countries/ were downloaded from <a href="https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/"> Natural Earth </a>.
+
+The town informations files in the folder de/ were downloaded from <a href="https://www.geoapify.com/download-all-the-cities-towns-villages/">Geoapify</a>.
